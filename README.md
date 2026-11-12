@@ -37,9 +37,9 @@ A JavaScript project I'm working on. Check out the repository for its code and u
 
 <div align="center">
 
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamza6798&show_icons=true&hide_border=true&theme=tokyonight)
+![Hamza's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Hamza6798&show_icons=true&hide_border=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza6798&layout=compact&hide_border=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hamza6798&layout=compact&hide_border=true&theme=tokyonight)
 
 </div>
 
